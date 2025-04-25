@@ -3,16 +3,13 @@
 
 [React](https://reactjs.org/) library for integrating Google ReCaptcha V3 to your App.
 
-[![npm package](https://img.shields.io/npm/v/react-google-recaptcha-v3/latest.svg)](https://www.npmjs.com/package/react-google-recaptcha-v3)
-![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
-![type definition](https://img.shields.io/npm/types/react-google-recaptcha-v3)
 
 </div>
 
 ## Install
 
 ```bash
-npm install react-google-recaptcha-v3
+npm install @parchmate/react-google-recaptcha-v3
 ```
 
 ## Usage
